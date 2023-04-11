@@ -1,11 +1,8 @@
 {
-  "posts": [
+  "movies": [
     {
-      "id": 1,
-      "title": "hello"
+      "title": "Your Name.",
+      "year": 2016
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
