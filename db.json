@@ -1,16 +1,80 @@
-{
-  "issue_search_list": [
+[
     {
-      "warehouse_id": "Z91",
-      "location_id": "A-01",
-      "quantity": 50,
-      "updated_at": "2022年9月27日16:42"
+        "warehouse_id": "Z91",
+        "location_id": "A-3",
+        "quantity": 500,
+        "created_at": "2023-04-14T09:52:30+09:00"
     },
     {
-      "warehouse_id": "Z91",
-      "location_id": "B-01",
-      "quantity": 100,
-      "updated_at": "2022年9月28日16:42"
+        "warehouse_id": "Z91",
+        "location_id": "A-3",
+        "quantity": 300,
+        "created_at": "2023-04-14T13:45:11+09:00"
+    },
+    {
+        "warehouse_id": "Z91",
+        "location_id": "A-3",
+        "quantity": 400,
+        "created_at": "2023-04-14T13:45:51+09:00"
+    },
+    {
+        "warehouse_id": "Z91",
+        "location_id": "A-3",
+        "quantity": 400,
+        "created_at": "2023-04-14T13:46:19+09:00"
+    },
+    {
+        "warehouse_id": "Z91",
+        "location_id": "A-3",
+        "quantity": 400,
+        "created_at": "2023-04-14T13:52:18+09:00"
+    },
+    {
+        "warehouse_id": "Z91",
+        "location_id": "A-3",
+        "quantity": 1200,
+        "created_at": "2023-04-14T13:55:34+09:00"
+    },
+    {
+        "warehouse_id": "Z91",
+        "location_id": "A-3",
+        "quantity": 100,
+        "created_at": "2023-04-14T17:44:26.784164+09:00"
+    },
+    {
+        "warehouse_id": "Z91",
+        "location_id": "A-3",
+        "quantity": 700,
+        "created_at": "2023-04-19T13:12:19.086903+09:00"
+    },
+    {
+        "warehouse_id": "Z91",
+        "location_id": "A-6",
+        "quantity": 700,
+        "created_at": "2023-04-19T13:14:27.824007+09:00"
+    },
+    {
+        "warehouse_id": "Z91",
+        "location_id": "A-3",
+        "quantity": 70,
+        "created_at": "2023-04-19T14:17:53.787517+09:00"
+    },
+    {
+        "warehouse_id": "Z91",
+        "location_id": "A-6",
+        "quantity": 700,
+        "created_at": "2023-04-19T15:49:30.013025+09:00"
+    },
+    {
+        "warehouse_id": "Z91",
+        "location_id": "A-3",
+        "quantity": 3500,
+        "created_at": "2023-04-19T16:21:02.224666+09:00"
+    },
+    {
+        "warehouse_id": "Z91",
+        "location_id": "A-8",
+        "quantity": 700,
+        "created_at": "2023-04-20T10:36:17.950977+09:00"
     }
-  ]
-}
+]
